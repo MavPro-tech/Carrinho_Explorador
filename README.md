@@ -1,7 +1,6 @@
 # Carrinho_Explorador
 
-![Banner_Projeto] (imagens/banner.png)
-
+![Banner do Carrinho Explorador](imagens/banner.png)
 
 <br>
  
