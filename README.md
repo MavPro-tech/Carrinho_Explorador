@@ -1,6 +1,8 @@
 # Carrinho_Explorador
 
-![Banner do Carrinho Explorador](imagens/banner.png)
+<p align="center">
+  <img src="banner.png" alt="Banner do Carrinho Explorador">
+</p>
 
 <br>
  
