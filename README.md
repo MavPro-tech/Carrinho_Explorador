@@ -44,8 +44,17 @@ Dessa forma, com as Tarefas já traçadas, definimos a quantidade de tempo neces
 ## 📚EAP - Estrutura Analítica do Projeto
 A EAP (Estrutura Analítica do Projeto) é um diagrama que organiza o escopo do projeto de forma visual, hierárquica e em partes menores, a fim de facilitar o gerenciamento das entregas. Em outras palavras, é uma ferramenta que organiza o trabalho que será realizado no projeto, representando graficamente e simplificadamente o escopo.
 
-![Gráfico EAP]
-![Dicionário EAP]
+<h3 align="center">📊 Gráfico EAP</h3>
+
+<p align="center">
+  <img src="EAP.png" width="900">
+</p>
+
+<h3 align="center">📖 Dicionário EAP</h3>
+
+<p align="center">
+  <img src="dicionarioeap.png" width="900">
+</p>
 
 <span id="sprints">
 
