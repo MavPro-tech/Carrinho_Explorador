@@ -85,7 +85,7 @@ A EAP (Estrutura Analítica do Projeto) é um diagrama que organiza o escopo do 
 
 <p align="center">
   <img src="controle" width="900">
- 
+ <img src="carrinho" width="900">
 </p>
 
 ### Funcionamento:
