@@ -66,7 +66,7 @@ Trabalhamos em equipe utilizando diversas ferramentas que nos ajudaram a organiz
 
 
 
-## 📝Documentação:  [Clique Aqui](https://github.com/MavPro-tech/Sensor_2025-01/tree/main/documents/sprints/sprint01)
+## 📝Documentação:  [Clique Aqui](https://github.com/MavPro-tech/Carrinho_Explorador/tree/main/Sprints/Sprint_01)
 
 <br>
 
