@@ -98,14 +98,15 @@ Por fim, há restrições importantes que devem ser consideradas, como: <br>
 
 ## Circuito Elétrico
 
-•	Circuito Elétrico do Projeto.<br>
+•	Calculo do Projeto.<br>
 
-![CIRCUITO](https://github.com/user-attachments/assets/f39b19aa-96b9-4459-87b6-4a214fe807be)
+![CALCULO]<img width="1536" height="1024" alt="Designer" src="https://github.com/user-attachments/assets/225ca124-fb90-44cd-a438-f6f50e24e064" />
+
 
 ## Croqui - Design Final
 
 •	Design Final do projeto, com uma imagem criada por IA com o prompt dos próprios autores.<br>
-![CROQUI](https://github.com/user-attachments/assets/94d21851-067c-47a2-8da2-0eb475a9e3b7)
+
 
 ## EAP - Estrutura Analítica do Projeto
 
