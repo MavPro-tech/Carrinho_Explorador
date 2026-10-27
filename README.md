@@ -104,6 +104,7 @@ Por fim, há restrições importantes que devem ser consideradas, como: <br>
 
 
 ## Croqui - Design Final
+<img width="546" height="365" alt="croqui" src="https://github.com/user-attachments/assets/c5ad1e45-926b-40a5-b03e-7c11256b26ab" />
 
 •	Design Final do projeto, com uma imagem criada por IA com o prompt dos próprios autores.<br>
 
@@ -116,7 +117,8 @@ Por fim, há restrições importantes que devem ser consideradas, como: <br>
 
 ## 📅Cronograma
 
-![Roadmap Sprints](https://github.com/user-attachments/assets/5a480f9a-e603-41f6-b4a8-c69d716e6d05)
+![Roadmap Sprints]<img width="1024" height="429" alt="Cronograma Sprint 2 1" src="https://github.com/user-attachments/assets/cbc54312-d09b-4165-be81-10afea345be0" />
+
 
 > 
 
