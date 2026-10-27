@@ -89,7 +89,7 @@ Foi realizado a montagem do circuito na protoboard para realizar os testes e ver
 
 > 
 
-## 📝Documentação:  [Clique Aqui](https://github.com/MavPro-tech/Sensor_2025-01/tree/main/documents/sprints/sprint03)
+## 📝Documentação:  [Clique Aqui](https://github.com/MavPro-tech/Carrinho_Explorador/tree/sprint_03/Sprints/Sprint_03)
 
 <br>
 
