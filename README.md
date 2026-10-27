@@ -78,15 +78,15 @@ A EAP (Estrutura Analítica do Projeto) é um diagrama que organiza o escopo do 
 ### Resultado Final:
 <p align="center">
   <img src="Sprints/Sprint_04/controle.png" width="900">
-  <img src="Sprints/Sprint_04/carrinho.png" width="900">
+  <img width="768" height="1024" alt="carrinho" src="https://github.com/user-attachments/assets/ad3b82f2-8c08-49c6-bba5-b143208262f0" />
 </p>
 
 
 ### Funcionamento:
+https://github.com/user-attachments/assets/d3cf74d8-c085-45be-9173-c0a11124c99d
 
 
-
-
+                  
 
 </br> 
 
@@ -107,9 +107,10 @@ A EAP (Estrutura Analítica do Projeto) é um diagrama que organiza o escopo do 
 |      Nome      |                           Links                            | 
 | :--------------: | :----------------------------------------------------------: | 
 | Diego Dias Motta Boa Sorte  | <a href="mailto:diego.sorte@fatec.sp.gov.br"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://www.linkedin.com/in/diegoboasorte"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> | 
-| Dara Dias Motta Boa Sorte  | <a href="mailto:dara.sorte@fatec.sp.gov.br"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <a link ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> | 
+| Dara Dias Motta Boa Sorte  | <a href="mailto:dara.sorte@fatec.sp.gov.br"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <a link ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://www.linkedin.com/in/dara-boa-sorte-53364437a?utm_source=share_via&utm_content=profile&utm_medium=member_ios"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> |
 | Matheus Takahashi Caldeira  | <a href="mailto:matheus.caldeira6@fatec.sp.gov.br"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <a link ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> | 
 | Bianca Beatriz Rezende de Melo  | <a href="mailto:bianca.melo2@fatec.sp.gov.br"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <a link ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> | 
-| Marcus Vinicius Pinto  | <a href="mailto:marcus.vinicius@fatec.sp.gov.br"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <a link ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> | 
+| Marcus Vinicius Pinto  | <a href="mailto:marcus.vinicius@fatec.sp.gov.br"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <a link ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> |
+| Samuel dos Santos Calderan  |  <a href="mailto:samuel.calderan@aluno.cps.sp.gov.br "><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> |
 
 ---
