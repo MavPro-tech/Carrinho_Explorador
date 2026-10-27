@@ -121,7 +121,7 @@ Por fim, há restrições importantes que devem ser consideradas, como: <br>
 > 
 
 
-## 📝Documentação:  [Clique Aqui](https://github.com/MavPro-tech/Sensor_2025-01/tree/main/documents/sprints/sprint02)
+## 📝Documentação:  [Clique Aqui](https://github.com/MavPro-tech/Carrinho_Explorador/tree/main/Sprints/Sprint_02)
 
 <br>
 
