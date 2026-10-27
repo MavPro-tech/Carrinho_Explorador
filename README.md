@@ -116,9 +116,7 @@ Por fim, há restrições importantes que devem ser consideradas, como: <br>
 <span id="cronograma">
 
 ## 📅Cronograma
-
-![Roadmap Sprints]<img width="1024" height="429" alt="Cronograma Sprint 2 1" src="https://github.com/user-attachments/assets/cbc54312-d09b-4165-be81-10afea345be0" />
-
+<img width="1024" height="429" alt="Cronograma Sprint 2 1" src="https://github.com/user-attachments/assets/cbc54312-d09b-4165-be81-10afea345be0" />
 
 > 
 
