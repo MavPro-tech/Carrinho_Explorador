@@ -35,7 +35,7 @@
   
  ## 📜Requisitos
 
- Projeto de dispositivos acionado por Circuito Integrado 555.
+ O objetivo geral deste projeto é desenvolver um sistema de tração robusto, utilizando esteiras metálicas com correntes duplas e estrutura em alumínio, aliado a um controle remoto DIY com comunicação via rádio frequência (RF).
 
 <span id="objetivo">
   
@@ -61,8 +61,8 @@ Trabalhamos em equipe utilizando diversas ferramentas que nos ajudaram a organiz
 ## 📅Cronograma
 
 > Esse é um cronograma inicial do nosso projeto, podendo ocorrer mudanças ao longo do periodo.
-
-<img width="1024" height="429" alt="Cronograma Sprint 2 1" src="https://github.com/user-attachments/assets/83eadcda-cc7f-435c-8e81-2d4bda5e168e" />
+<img width="1536" height="1024" alt="cronograma1" src="https://github.com/user-attachments/assets/07d80d4b-f5ac-43cf-b6e4-33e599e8ddf2" />
+>
 
 
 
