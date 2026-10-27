@@ -100,11 +100,12 @@ Por fim, há restrições importantes que devem ser consideradas, como: <br>
 
 •	Calculo do Projeto.<br>
 
-![CALCULO]<img width="1536" height="1024" alt="Designer" src="https://github.com/user-attachments/assets/225ca124-fb90-44cd-a438-f6f50e24e064" />
+<img width="1536" height="1024" alt="Designer" src="https://github.com/user-attachments/assets/225ca124-fb90-44cd-a438-f6f50e24e064" />
 
 
 ## Croqui - Design Final
 <img width="546" height="365" alt="croqui" src="https://github.com/user-attachments/assets/c5ad1e45-926b-40a5-b03e-7c11256b26ab" />
+<img width="1536" height="1024" alt="croquicontrole" src="https://github.com/user-attachments/assets/ab0089dd-6f66-49e0-8774-6c72314b5bdc" />
 
 •	Design Final do projeto, com uma imagem criada por IA com o prompt dos próprios autores.<br>
 
