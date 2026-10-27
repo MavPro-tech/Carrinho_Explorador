@@ -44,18 +44,13 @@ Dessa forma, com as Tarefas já traçadas, definimos a quantidade de tempo neces
 ## 📚EAP - Estrutura Analítica do Projeto
 A EAP (Estrutura Analítica do Projeto) é um diagrama que organiza o escopo do projeto de forma visual, hierárquica e em partes menores, a fim de facilitar o gerenciamento das entregas. Em outras palavras, é uma ferramenta que organiza o trabalho que será realizado no projeto, representando graficamente e simplificadamente o escopo.
 
-<h3 align="center">📊 Gráfico EAP</h3>
-
 <p align="center">
-  <img src="EAP.png" width="900">
+  <img src="Sprints/Sprint_03/EAP.png" width="900">
 </p>
 
-<h3 align="center">📖 Dicionário EAP</h3>
-
 <p align="center">
-  <img src="dicionarioeap.png" width="900">
+  <img src="Sprints/Sprint_03/dicionarioeap.png" width="900">
 </p>
-
 <span id="sprints">
 
 ## 📅Sprints 
@@ -75,15 +70,17 @@ A EAP (Estrutura Analítica do Projeto) é um diagrama que organiza o escopo do 
 <h3 align="center">📊 Croqui Inicial</h3>
 
 <p align="center">
-  <img src="croqui.png" width="900">
-  <img src="croquicontrole.png" width="900">
+ <img src="Sprints/Sprint_01/croqui.png" width="900">
+<img src="Sprints/Sprint_01/croquicontrole.png" width="900">
+
 </p>
 
 ### Resultado Final:
 <p align="center">
-  <img src="controle.png" width="900">
-  <img src="carrinho.jpg" width="900">
+  <img src="Sprints/Sprint_04/controle.png" width="900">
+  <img src="Sprints/Sprint_04/carrinho.jpg" width="900">
 </p>
+
 
 ### Funcionamento:
 https://github.com
