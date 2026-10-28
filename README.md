@@ -58,7 +58,7 @@ A EAP (Estrutura Analítica do Projeto) é um diagrama que organiza o escopo do 
 #### Entrega - 1️⃣ ([Clique aqui](https://github.com/MavPro-tech/Carrinho_Explorador/tree/sprint_01))🎯Concluído ✅
 #### Entrega - 2️⃣ ([Clique aqui](https://github.com/MavPro-tech/Carrinho_Explorador/tree/sprint_02 ))🎯Concluído ✅
 #### Entrega - 3️⃣ ([Clique aqui](https://github.com/MavPro-tech/Carrinho_Explorador/tree/sprint_03))🎯Concluído ✅
-#### Entrega - 4️⃣ 🎯   Concluído ✅
+#### Entrega - 4️⃣ ([Clique aqui](https://github.com/MavPro-tech/Carrinho_Explorador/tree/sprint_04))🎯Concluído ✅
 
 </br> 
 
