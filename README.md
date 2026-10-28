@@ -148,7 +148,7 @@ Dessa forma, o desenvolvimento do carrinho Roover contribuiu significativamente 
 
 > 
 
-#### 📝Documentação:  [Clique Aqui](https://github.com/MavPro-tech/Sensor_2025-01/tree/main/documents/sprints/sprint04)
+#### 📝Documentação:  [Clique Aqui](https://github.com/MavPro-tech/Carrinho_Explorador/tree/sprint_04/Sprints/Sprint_04)
 
 <br>
 
